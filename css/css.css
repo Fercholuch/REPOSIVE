@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 10px;
+}
+
+header{
+    width: 140em;
+    height: auto;
+    margin: auto;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 45em;
+    height: 10em;
+    background-color: #f05c07
+}
+
+.Encabezado{
+    width: 90em;
+    height: 10em;
+    background-color: #168374;
+}
