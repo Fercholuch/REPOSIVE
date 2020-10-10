@@ -42,6 +42,7 @@ header {
     width: 110em;
     height: 10em;
     margin-top: 4em;
+    background-image: url(../img/Music%20-%20copia.jpg);
     background-color: #168374;
 }
 
@@ -75,7 +76,25 @@ section {
 }
 
 .imgRGB {
-    background-image: url(../img/Photoshop.png);
+    background-image: url(../img/Guitars.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.imgMusic {
+    background-image: url(../img/guitar.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.imgAcu {
+    background-image: url(../img/Acustic.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.imgFender {
+    background-image: url(../img/Fender.png);
     background-size: cover;
     background-position: center;
 }
@@ -89,7 +108,7 @@ section {
 .titulo h1 {
     font-size: 3em;
     color: deepskyblue;
-    margin-left: 60px;
+    margin-left: 30px;
 }
 
 .parrafo {
@@ -101,6 +120,7 @@ section {
 .parrafo p {
     font-size: 2em;
     text-align: justify;
+    font-family:sans-serif;
 }
 
 
